@@ -88,3 +88,8 @@ if mode == 3:
         print('')
         print(f'Me: {point_AI}   You: {point_Player}')
         print('')
+    if point_AI == 2:
+        print("AI WON!!!")
+    if point_Player == 2:
+        print("YOU WON!!!")
+

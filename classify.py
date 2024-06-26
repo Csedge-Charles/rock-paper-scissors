@@ -43,6 +43,7 @@ class math:
     def __init__(self, factorial):
         self.factorial = self.fac(factorial)
         
+    
 
 
 
